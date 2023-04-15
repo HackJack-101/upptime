@@ -5,8 +5,29 @@ repo: upptime # The name of this repository
 sites:
   - name: Personal website
     url: https://hackjack.info
+  - name: Stream[ON]
+    url: https://streamon.info
+  - name: Advanced search on Google
+    url: $SOURCES_HACKJACK
+  - name: Seedbox
+    url: $SEEDBOX_HACKJACK 
+    headers:
+      - "Authorization: Basic $SECRET_SEEDBOX_HACKJACK"
+
+assignees:
+  - HackJack-101
 
 status-website:
   baseUrl: /upptime
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
