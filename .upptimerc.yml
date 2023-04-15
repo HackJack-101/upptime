@@ -6,5 +6,7 @@ sites:
   - name: Personal website
     url: https://hackjack.info
 
+status-website:
+  baseUrl: /upptime
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
