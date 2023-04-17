@@ -5,6 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: Personal website
     url: https://hackjack.info
+  - name: Company website
+    url: https://kbdev.io
+  - name: Personal Nextcloud
+    url: $PERSONAL_NEXTCLOUD
+  - name: Company Nextcloud
+    url: $COMPANY_NEXTCLOUD
+  - name: Company RochetChat
+    url: $COMPANY_ROCKET_CHAT
   - name: Stream[ON]
     url: https://streamon.info
   - name: Advanced search on Google
@@ -22,13 +30,3 @@ status-website:
   name: Upptime
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/10 * * * *"
