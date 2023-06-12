@@ -58,18 +58,20 @@
     "url": "$COMPANY_NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "company-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 750,
-    "timeWeek": 690,
-    "timeMonth": 740,
-    "timeYear": 711,
-    "dailyMinutesDown": {}
+    "time": 707,
+    "timeDay": 617,
+    "timeWeek": 665,
+    "timeMonth": 732,
+    "timeYear": 707,
+    "dailyMinutesDown": {
+      "2023-06-12": 0
+    }
   },
   {
     "name": "Company RochetChat",
