@@ -76,19 +76,19 @@
     "url": "$COMPANY_ROCKET_CHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "company-rochet-chat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 368,
-    "timeWeek": 545,
-    "timeMonth": 656,
-    "timeYear": 647,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 649,
+    "timeDay": 498,
+    "timeWeek": 568,
+    "timeMonth": 660,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2023-07-12": 0
+      "2023-07-12": 22
     }
   },
   {
