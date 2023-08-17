@@ -40,18 +40,20 @@
     "url": "$PERSONAL_NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "personal-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 943,
-    "timeWeek": 803,
-    "timeMonth": 843,
-    "timeYear": 861,
-    "dailyMinutesDown": {}
+    "time": 860,
+    "timeDay": 782,
+    "timeWeek": 780,
+    "timeMonth": 836,
+    "timeYear": 860,
+    "dailyMinutesDown": {
+      "2023-08-17": 0
+    }
   },
   {
     "name": "Company Nextcloud",
