@@ -22,19 +22,19 @@
     "url": "https://kbdev.io",
     "icon": "https://icons.duckduckgo.com/ip3/kbdev.io.ico",
     "slug": "company-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 14470,
-    "timeWeek": 3828,
-    "timeMonth": 1588,
-    "timeYear": 972,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 970,
+    "timeDay": 9877,
+    "timeWeek": 3815,
+    "timeMonth": 1562,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2023-09-02": 0
+      "2023-09-02": 28
     }
   },
   {
