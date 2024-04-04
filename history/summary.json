@@ -34,7 +34,7 @@
     "timeMonth": 450,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2024-04-04": 558,
+      "2024-04-04": 569,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -171,19 +171,19 @@
     "url": "https://streamon.info",
     "icon": "https://icons.duckduckgo.com/ip3/streamon.info.ico",
     "slug": "stream-on",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 523,
-    "timeWeek": 558,
-    "timeMonth": 586,
-    "timeYear": 628,
+    "time": 627,
+    "timeDay": 470,
+    "timeWeek": 540,
+    "timeMonth": 581,
+    "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 11
     }
   },
   {
@@ -213,7 +213,7 @@
     "uptime": "87.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.88%",
+    "uptimeMonth": "9.86%",
     "uptimeYear": "87.07%",
     "time": 908,
     "timeDay": 578,
@@ -221,7 +221,7 @@
     "timeMonth": 738,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2024-04-04": 559,
+      "2024-04-04": 570,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
