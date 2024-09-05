@@ -4,10 +4,10 @@
     "url": "https://hackjack.info",
     "icon": "https://icons.duckduckgo.com/ip3/hackjack.info.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 755,
@@ -15,7 +15,9 @@
     "timeWeek": 719,
     "timeMonth": 760,
     "timeYear": 751,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-05": 1
+    }
   },
   {
     "name": "Company website",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kbdev.io.ico",
     "slug": "company-website",
     "status": "down",
-    "uptime": "57.38%",
+    "uptime": "57.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.89%",
+    "uptimeYear": "40.81%",
     "time": 756,
     "timeDay": 359,
     "timeWeek": 457,
     "timeMonth": 482,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-09-05": 391,
+      "2024-09-05": 812,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
@@ -262,18 +264,20 @@
     "url": "$PERSONAL_NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "personal-nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 846,
+    "time": 847,
     "timeDay": 813,
     "timeWeek": 787,
     "timeMonth": 827,
     "timeYear": 844,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-05": 1
+    }
   },
   {
     "name": "Company Nextcloud",
@@ -321,9 +325,9 @@
     "url": "https://streamon.info",
     "icon": "https://icons.duckduckgo.com/ip3/streamon.info.ico",
     "slug": "stream-on",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -332,7 +336,9 @@
     "timeWeek": 559,
     "timeMonth": 616,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-05": 0
+    }
   },
   {
     "name": "Advanced search on Google",
@@ -358,9 +364,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox",
     "status": "up",
-    "uptime": "65.85%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptime": "65.87%",
+    "uptimeDay": "29.23%",
+    "uptimeWeek": "4.18%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "52.35%",
     "time": 872,
