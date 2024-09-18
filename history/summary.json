@@ -34,7 +34,7 @@
     "timeMonth": 473,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2024-09-18": 635,
+      "2024-09-18": 647,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -275,19 +275,19 @@
     "url": "$PERSONAL_NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "personal-nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 847,
-    "timeDay": 534,
-    "timeWeek": 802,
-    "timeMonth": 810,
+    "timeDay": 666,
+    "timeWeek": 816,
+    "timeMonth": 813,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 11
     }
   },
   {
@@ -376,7 +376,7 @@
     "uptime": "66.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.39%",
+    "uptimeMonth": "41.41%",
     "uptimeYear": "52.35%",
     "time": 873,
     "timeDay": 806,
