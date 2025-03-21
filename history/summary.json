@@ -34,7 +34,7 @@
     "timeMonth": 499,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-03-21": 162,
+      "2025-03-21": 200,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -445,19 +445,19 @@
     "url": "$COMPANY_ROCKET_CHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "company-rochet-chat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 670,
-    "timeDay": 580,
-    "timeWeek": 710,
-    "timeMonth": 651,
+    "timeDay": 715,
+    "timeWeek": 728,
+    "timeMonth": 658,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2025-03-21": 0
+      "2025-03-21": 38
     }
   },
   {
@@ -504,7 +504,7 @@
     "status": "down",
     "uptime": "59.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.29%",
+    "uptimeWeek": "35.91%",
     "uptimeMonth": "66.01%",
     "uptimeYear": "30.54%",
     "time": 843,
@@ -513,7 +513,7 @@
     "timeMonth": 872,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2025-03-21": 162,
+      "2025-03-21": 201,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
