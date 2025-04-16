@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 632,
-    "timeWeek": 709,
-    "timeMonth": 786,
-    "timeYear": 765,
+    "time": 756,
+    "timeDay": 1379,
+    "timeWeek": 809,
+    "timeMonth": 800,
+    "timeYear": 767,
     "dailyMinutesDown": {}
   },
   {
@@ -29,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 513,
-    "timeDay": 516,
-    "timeWeek": 506,
-    "timeMonth": 497,
+    "timeDay": 690,
+    "timeWeek": 533,
+    "timeMonth": 499,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2025-04-15": 1372,
+      "2025-04-16": 87,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -397,8 +398,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 884,
-    "timeDay": 833,
-    "timeWeek": 904,
-    "timeMonth": 903,
-    "timeYear": 905,
+    "timeDay": 1262,
+    "timeWeek": 970,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2025-04-02": 43
     }
@@ -428,17 +428,16 @@
     "slug": "company-nextcloud",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 776,
-    "timeDay": 803,
-    "timeWeek": 791,
-    "timeMonth": 809,
+    "timeDay": 848,
+    "timeWeek": 798,
+    "timeMonth": 808,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2025-04-15": 11,
       "2024-07-25": 18,
       "2024-07-12": 217
     }
@@ -455,10 +454,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 675,
-    "timeDay": 525,
-    "timeWeek": 671,
-    "timeMonth": 728,
-    "timeYear": 687,
+    "timeDay": 823,
+    "timeWeek": 691,
+    "timeMonth": 725,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2025-03-21": 38
     }
@@ -474,11 +473,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 556,
-    "timeWeek": 615,
-    "timeMonth": 635,
-    "timeYear": 639,
+    "time": 640,
+    "timeDay": 979,
+    "timeWeek": 673,
+    "timeMonth": 640,
+    "timeYear": 640,
     "dailyMinutesDown": {}
   },
   {
@@ -493,9 +492,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 667,
-    "timeWeek": 624,
-    "timeMonth": 635,
+    "timeDay": 743,
+    "timeWeek": 654,
+    "timeMonth": 636,
     "timeYear": 645,
     "dailyMinutesDown": {}
   },
@@ -505,18 +504,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox",
     "status": "down",
-    "uptime": "57.80%",
+    "uptime": "57.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.40%",
+    "uptimeMonth": "7.04%",
     "uptimeYear": "31.13%",
     "time": 832,
-    "timeDay": 702,
-    "timeWeek": 761,
-    "timeMonth": 785,
-    "timeYear": 833,
+    "timeDay": 845,
+    "timeWeek": 780,
+    "timeMonth": 773,
+    "timeYear": 832,
     "dailyMinutesDown": {
-      "2025-04-15": 1372,
+      "2025-04-16": 87,
+      "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -776,8 +776,7 @@
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
-      "2024-04-17": 1440,
-      "2024-04-16": 1440
+      "2024-04-17": 1440
     }
   }
 ]
