@@ -1,7 +1,7 @@
 url: $SEEDBOX_HACKJACK
-status: down
-code: 403
-responseTime: 764
-lastUpdated: 2025-04-23T23:09:56.101Z
+status: up
+code: 200
+responseTime: 1525
+lastUpdated: 2025-04-24T20:23:31.211Z
 startTime: 2023-04-15T01:22:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
