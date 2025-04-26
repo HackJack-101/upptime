@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
-    "timeDay": 764,
-    "timeWeek": 686,
-    "timeMonth": 764,
-    "timeYear": 767,
+    "timeDay": 934,
+    "timeWeek": 734,
+    "timeMonth": 762,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kbdev.io.ico",
     "slug": "company-website",
     "status": "down",
-    "uptime": "39.36%",
+    "uptime": "39.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 510,
-    "timeDay": 409,
-    "timeWeek": 471,
-    "timeMonth": 508,
-    "timeYear": 492,
+    "time": 509,
+    "timeDay": 607,
+    "timeWeek": 482,
+    "timeMonth": 510,
+    "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-04-25": 88,
+      "2025-04-26": 85,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -397,8 +398,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 887,
-    "timeDay": 907,
-    "timeWeek": 932,
-    "timeMonth": 927,
-    "timeYear": 908,
+    "time": 888,
+    "timeDay": 1128,
+    "timeWeek": 963,
+    "timeMonth": 930,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-04-16": 18,
       "2025-04-02": 43
@@ -433,11 +433,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 779,
-    "timeDay": 914,
-    "timeWeek": 869,
-    "timeMonth": 845,
-    "timeYear": 794,
+    "time": 780,
+    "timeDay": 1015,
+    "timeWeek": 903,
+    "timeMonth": 846,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2024-07-25": 18,
       "2024-07-12": 217
@@ -454,11 +454,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 677,
-    "timeDay": 720,
-    "timeWeek": 729,
-    "timeMonth": 739,
-    "timeYear": 688,
+    "time": 678,
+    "timeDay": 930,
+    "timeWeek": 760,
+    "timeMonth": 738,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-03-21": 38
     }
@@ -474,10 +474,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 648,
-    "timeWeek": 631,
-    "timeMonth": 650,
+    "time": 640,
+    "timeDay": 812,
+    "timeWeek": 653,
+    "timeMonth": 652,
     "timeYear": 638,
     "dailyMinutesDown": {}
   },
@@ -493,10 +493,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 627,
-    "timeDay": 584,
-    "timeWeek": 619,
-    "timeMonth": 658,
-    "timeYear": 644,
+    "timeDay": 785,
+    "timeWeek": 642,
+    "timeMonth": 660,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   },
   {
@@ -505,16 +505,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "seedbox",
     "status": "up",
-    "uptime": "57.11%",
-    "uptimeDay": "21.12%",
-    "uptimeWeek": "3.02%",
-    "uptimeMonth": "5.79%",
-    "uptimeYear": "31.19%",
+    "uptime": "57.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "17.27%",
+    "uptimeMonth": "9.07%",
+    "uptimeYear": "31.46%",
     "time": 831,
-    "timeDay": 1259,
-    "timeWeek": 876,
-    "timeMonth": 816,
-    "timeYear": 834,
+    "timeDay": 1193,
+    "timeWeek": 926,
+    "timeMonth": 826,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2025-04-24": 1224,
       "2025-04-23": 1440,
@@ -775,8 +775,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   }
 ]
