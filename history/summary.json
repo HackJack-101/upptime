@@ -34,9 +34,9 @@
     "timeDay": 2284,
     "timeWeek": 3205,
     "timeMonth": 2433,
-    "timeYear": 1024,
+    "timeYear": 1026,
     "dailyMinutesDown": {
-      "2026-07-15": 1362,
+      "2026-07-15": 1417,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -429,16 +429,16 @@
     "url": "$COMPANY_NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "company-nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "90.42%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "69.15%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "69.14%",
     "time": 862,
-    "timeDay": 24606,
-    "timeWeek": 6852,
-    "timeMonth": 2442,
+    "timeDay": 16674,
+    "timeWeek": 6180,
+    "timeMonth": 2391,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2025-12-09": 1239,
@@ -555,7 +555,7 @@
       "2025-08-20": 1440,
       "2025-08-19": 1052,
       "2026-01-23": 25,
-      "2026-07-15": 4
+      "2026-07-15": 58
     }
   },
   {
@@ -619,7 +619,7 @@
     "timeMonth": 417,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2026-07-15": 1363,
+      "2026-07-15": 1417,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
